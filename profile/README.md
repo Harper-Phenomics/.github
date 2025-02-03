@@ -1,5 +1,5 @@
 ## Hi there 👋
 
 
-Otganisation for hosting phenotyping code
+Organisation for hosting phenotyping code
 
